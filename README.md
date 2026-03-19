@@ -1,6 +1,6 @@
 <!-- ================= NEON BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Harsh&fontSize=40&fontColor=ffffff&color=0:00fff0,100:7f00ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Ankit&fontSize=40&fontColor=ffffff&color=0:00fff0,100:7f00ff&animation=fadeIn" />
 </p>
 
 <!-- ================= TYPING TEXT ================= -->
@@ -18,7 +18,7 @@
 
 
 ## 🚀 About Me
-- 👋 Hi, I’m *Harsh*
+- 👋 Hi, I’m *Ankit*
 - 🧩 I build *scalable MERN stack applications*
 - 🧠 I enjoy *problem-solving & learning new tech*
 - 🎯 Focused on *clean code, performance & real-world apps*
@@ -55,6 +55,29 @@
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitchaudharyy77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaudharyy77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitchaudharyy77&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph.svg">
+</picture>
+
+<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
+<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitchaudharyy77&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
