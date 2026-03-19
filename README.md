@@ -99,22 +99,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://youtube.com/@harshfpss" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/classic__harsh" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/e4405f" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshitprajapaticode" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="28" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/mqrKy32VVh" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865f2" height="28" />
-  </a>
-</p>
-
-
-<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
-<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>
