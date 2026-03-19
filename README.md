@@ -1,16 +1,97 @@
-## Hi there 👋
+<!-- ================= NEON BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20👋%20I'm%20Harsh&fontSize=40&fontColor=ffffff&color=0:00fff0,100:7f00ff&animation=fadeIn" />
+</p>
 
-<!--
-**ankitchaudharyy77/ankitchaudharyy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ================= TYPING TEXT ================= -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;App+Builder+🚀;Problem+Solver+%26+Learner" />
+</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">
+💻 MERN Stack Full-Stack Developer | 🚀 App Builder | 📚 Learner
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitchaudharyy77&label=Profile%20Views&color=00fff0&style=flat" />
+</p>
+
+
+## 🚀 About Me
+- 👋 Hi, I’m *Harsh*
+- 🧩 I build *scalable MERN stack applications*
+- 🧠 I enjoy *problem-solving & learning new tech*
+- 🎯 Focused on *clean code, performance & real-world apps*
+- 🎮 Gamer & content creator in free time
+  
+## 🏆 GitHub Trophies
+   ![](https://github-trophies.vercel.app/?username=ankitchaudharyy77&theme=onedark)
+---
+
+## 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,express,fastapi,docker&theme=dark" />
+</p>
+
+
+## 👨‍💻 Coding Platforms
+<p align="center">
+  <a href="https://leetcode.com/u/ankitchaudharyy77/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
+  <a href="https://codeforces.com/profile/ankitchaudharyy77">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/ankitchaudharyy77">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitchaudharyy77&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankitchaudharyy77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaudharyy77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitchaudharyy77&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankitchaudharyy77/ankitchaudharyy77/output/pacman-contribution-graph.svg">
+</picture>
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://youtube.com/@harshfpss" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/classic__harsh" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/e4405f" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshitprajapaticode" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0a66c2" height="28" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/mqrKy32VVh" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865f2" height="28" />
+  </a>
+</p>
+
+
+<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
+<h4 align="center">Turning coffee ☕ into scalable code & clean commits</h4>
